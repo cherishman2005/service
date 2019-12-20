@@ -1,8 +1,8 @@
 {
-  "name": "YY-Service",
+  "name": "RTM-Service",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "manannan <2284098244@qq.com>",
+  "description": "vue-service demo",
+  "author": "zhangbiwu",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
